@@ -11,7 +11,7 @@
 
 Visit my responsive portfolio:
 
-https://Anthony-mugwe.github.io/iyf-s12-week-02-Anthony-mugwe/
+https://github.com/Anthony-mugwe/iyf-s12-week-02-Anthony-mugwe.git
 
 ## About This Project
 
